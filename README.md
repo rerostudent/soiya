@@ -3,7 +3,7 @@
 ```
 $ cd ~/
 $ git clone https://github.com/rerostudent/soiya
-$ chmod +x ~/soiya
+$ chmod +x ~/soiya/soiya
 $ echo "PATH=$PATH:~/soiya" >> ~/.bashrc
 $ soiya
 ```
