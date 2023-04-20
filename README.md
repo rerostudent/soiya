@@ -1,10 +1,11 @@
 # HOW TO USE
 
-```
+```420018
 $ cd ~/
 $ git clone https://github.com/rerostudent/soiya
 $ chmod +x ~/soiya/soiya
 $ echo "PATH=$PATH:~/soiya" >> ~/.bashrc
+$ source ~/.bashrc
 $ soiya
 ```
 
