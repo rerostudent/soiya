@@ -3,8 +3,8 @@
 ```420018
 $ cd ~/
 $ git clone https://github.com/rerostudent/soiya
-$ chmod +x ~/soiya/soiya
-$ echo "PATH=$PATH:~/soiya" >> ~/.bashrc
+$ chmod +x ~/soiya/setup.sh
+$ ./setup.sh
 $ source ~/.bashrc
 $ soiya
 ```
